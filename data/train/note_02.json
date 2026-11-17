@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "2024-02-06",
+    "label": "O",
+    "start": 12,
+    "end": 22
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 23,
+    "end": 26
+  },
+  {
+    "text": "sore",
+    "label": "B-SYMPTOM",
+    "start": 27,
+    "end": 31
+  },
+  {
+    "text": "throat",
+    "label": "I-SYMPTOM",
+    "start": 32,
+    "end": 38
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 38,
+    "end": 39
+  },
+  {
+    "text": "Amoxicillin",
+    "label": "B-MEDICINE",
+    "start": 40,
+    "end": 51
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 52,
+    "end": 55
+  },
+  {
+    "text": "prescribed",
+    "label": "O",
+    "start": 56,
+    "end": 66
+  },
+  {
+    "text": "after",
+    "label": "O",
+    "start": 67,
+    "end": 72
+  },
+  {
+    "text": "assessment",
+    "label": "O",
+    "start": 73,
+    "end": 83
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 83,
+    "end": 84
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 85,
+    "end": 86
+  },
+  {
+    "text": "throat",
+    "label": "B-TEST",
+    "start": 87,
+    "end": 93
+  },
+  {
+    "text": "culture",
+    "label": "I-TEST",
+    "start": 94,
+    "end": 101
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 102,
+    "end": 105
+  },
+  {
+    "text": "collected",
+    "label": "O",
+    "start": 106,
+    "end": 115
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 115,
+    "end": 116
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 117,
+    "end": 120
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 121,
+    "end": 128
+  },
+  {
+    "text": "drank",
+    "label": "O",
+    "start": 129,
+    "end": 134
+  },
+  {
+    "text": "water",
+    "label": "O",
+    "start": 135,
+    "end": 140
+  },
+  {
+    "text": "comfortably",
+    "label": "O",
+    "start": 141,
+    "end": 152
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 153,
+    "end": 156
+  },
+  {
+    "text": "understood",
+    "label": "O",
+    "start": 157,
+    "end": 167
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 168,
+    "end": 171
+  },
+  {
+    "text": "followup",
+    "label": "O",
+    "start": 172,
+    "end": 180
+  },
+  {
+    "text": "plan",
+    "label": "O",
+    "start": 181,
+    "end": 185
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 185,
+    "end": 186
+  }
+]

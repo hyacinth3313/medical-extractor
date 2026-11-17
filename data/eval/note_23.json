@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "Nov",
+    "label": "O",
+    "start": 8,
+    "end": 11
+  },
+  {
+    "text": "06",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": ",",
+    "label": "O",
+    "start": 14,
+    "end": 15
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 16,
+    "end": 20
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 21,
+    "end": 25
+  },
+  {
+    "text": "fatigue",
+    "label": "B-SYMPTOM",
+    "start": 26,
+    "end": 33
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 33,
+    "end": 34
+  },
+  {
+    "text": "Ferrous",
+    "label": "B-MEDICINE",
+    "start": 35,
+    "end": 42
+  },
+  {
+    "text": "sulfate",
+    "label": "I-MEDICINE",
+    "start": 43,
+    "end": 50
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 51,
+    "end": 54
+  },
+  {
+    "text": "taken",
+    "label": "O",
+    "start": 55,
+    "end": 60
+  },
+  {
+    "text": "regularly",
+    "label": "O",
+    "start": 61,
+    "end": 70
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 70,
+    "end": 71
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 72,
+    "end": 73
+  },
+  {
+    "text": "complete",
+    "label": "B-TEST",
+    "start": 74,
+    "end": 82
+  },
+  {
+    "text": "blood",
+    "label": "I-TEST",
+    "start": 83,
+    "end": 88
+  },
+  {
+    "text": "count",
+    "label": "I-TEST",
+    "start": 89,
+    "end": 94
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 95,
+    "end": 98
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 99,
+    "end": 108
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 108,
+    "end": 109
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 110,
+    "end": 113
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 114,
+    "end": 121
+  },
+  {
+    "text": "brought",
+    "label": "O",
+    "start": 122,
+    "end": 129
+  },
+  {
+    "text": "previous",
+    "label": "O",
+    "start": 130,
+    "end": 138
+  },
+  {
+    "text": "results",
+    "label": "O",
+    "start": 139,
+    "end": 146
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 147,
+    "end": 150
+  },
+  {
+    "text": "agreed",
+    "label": "O",
+    "start": 151,
+    "end": 157
+  },
+  {
+    "text": "to",
+    "label": "O",
+    "start": 158,
+    "end": 160
+  },
+  {
+    "text": "return",
+    "label": "O",
+    "start": 161,
+    "end": 167
+  },
+  {
+    "text": "next",
+    "label": "O",
+    "start": 168,
+    "end": 172
+  },
+  {
+    "text": "month",
+    "label": "O",
+    "start": 173,
+    "end": 178
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 178,
+    "end": 179
+  }
+]

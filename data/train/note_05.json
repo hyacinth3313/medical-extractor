@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "2024-05-09",
+    "label": "O",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "nausea",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 30
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 30,
+    "end": 31
+  },
+  {
+    "text": "Metformin",
+    "label": "B-MEDICINE",
+    "start": 32,
+    "end": 41
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 42,
+    "end": 45
+  },
+  {
+    "text": "reviewed",
+    "label": "O",
+    "start": 46,
+    "end": 54
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 55,
+    "end": 59
+  },
+  {
+    "text": "meals",
+    "label": "O",
+    "start": 60,
+    "end": 65
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 65,
+    "end": 66
+  },
+  {
+    "text": "Blood",
+    "label": "B-TEST",
+    "start": 67,
+    "end": 72
+  },
+  {
+    "text": "glucose",
+    "label": "I-TEST",
+    "start": 73,
+    "end": 80
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 81,
+    "end": 84
+  },
+  {
+    "text": "checked",
+    "label": "O",
+    "start": 85,
+    "end": 92
+  },
+  {
+    "text": "before",
+    "label": "O",
+    "start": 93,
+    "end": 99
+  },
+  {
+    "text": "lunch",
+    "label": "O",
+    "start": 100,
+    "end": 105
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 105,
+    "end": 106
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 107,
+    "end": 110
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 111,
+    "end": 118
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 119,
+    "end": 122
+  },
+  {
+    "text": "alert",
+    "label": "O",
+    "start": 123,
+    "end": 128
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 129,
+    "end": 132
+  },
+  {
+    "text": "agreed",
+    "label": "O",
+    "start": 133,
+    "end": 139
+  },
+  {
+    "text": "to",
+    "label": "O",
+    "start": 140,
+    "end": 142
+  },
+  {
+    "text": "keep",
+    "label": "O",
+    "start": 143,
+    "end": 147
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 148,
+    "end": 149
+  },
+  {
+    "text": "daily",
+    "label": "O",
+    "start": 150,
+    "end": 155
+  },
+  {
+    "text": "diary",
+    "label": "O",
+    "start": 156,
+    "end": 161
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 161,
+    "end": 162
+  }
+]

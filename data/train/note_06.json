@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "06",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 14,
+    "end": 15
+  },
+  {
+    "text": "06",
+    "label": "O",
+    "start": 15,
+    "end": 17
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 17,
+    "end": 18
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 18,
+    "end": 22
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 23,
+    "end": 26
+  },
+  {
+    "text": "dizziness",
+    "label": "B-SYMPTOM",
+    "start": 27,
+    "end": 36
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 36,
+    "end": 37
+  },
+  {
+    "text": "Amlodipine",
+    "label": "B-MEDICINE",
+    "start": 38,
+    "end": 48
+  },
+  {
+    "text": "use",
+    "label": "O",
+    "start": 49,
+    "end": 52
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 53,
+    "end": 56
+  },
+  {
+    "text": "discussed",
+    "label": "O",
+    "start": 57,
+    "end": 66
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 66,
+    "end": 67
+  },
+  {
+    "text": "Blood",
+    "label": "B-TEST",
+    "start": 68,
+    "end": 73
+  },
+  {
+    "text": "pressure",
+    "label": "I-TEST",
+    "start": 74,
+    "end": 82
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 83,
+    "end": 86
+  },
+  {
+    "text": "measured",
+    "label": "O",
+    "start": 87,
+    "end": 95
+  },
+  {
+    "text": "after",
+    "label": "O",
+    "start": 96,
+    "end": 101
+  },
+  {
+    "text": "resting",
+    "label": "O",
+    "start": 102,
+    "end": 109
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 109,
+    "end": 110
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 111,
+    "end": 114
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 115,
+    "end": 122
+  },
+  {
+    "text": "walked",
+    "label": "O",
+    "start": 123,
+    "end": 129
+  },
+  {
+    "text": "steadily",
+    "label": "O",
+    "start": 130,
+    "end": 138
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 139,
+    "end": 142
+  },
+  {
+    "text": "arranged",
+    "label": "O",
+    "start": 143,
+    "end": 151
+  },
+  {
+    "text": "transport",
+    "label": "O",
+    "start": 152,
+    "end": 161
+  },
+  {
+    "text": "home",
+    "label": "O",
+    "start": 162,
+    "end": 166
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 167,
+    "end": 171
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 172,
+    "end": 173
+  },
+  {
+    "text": "relative",
+    "label": "O",
+    "start": 174,
+    "end": 182
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 182,
+    "end": 183
+  }
+]

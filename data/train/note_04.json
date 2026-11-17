@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "Apr",
+    "label": "O",
+    "start": 12,
+    "end": 15
+  },
+  {
+    "text": "12",
+    "label": "O",
+    "start": 16,
+    "end": 18
+  },
+  {
+    "text": ",",
+    "label": "O",
+    "start": 18,
+    "end": 19
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 20,
+    "end": 24
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 25,
+    "end": 28
+  },
+  {
+    "text": "fatigue",
+    "label": "B-SYMPTOM",
+    "start": 29,
+    "end": 36
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 36,
+    "end": 37
+  },
+  {
+    "text": "Ferrous",
+    "label": "B-MEDICINE",
+    "start": 38,
+    "end": 45
+  },
+  {
+    "text": "sulfate",
+    "label": "I-MEDICINE",
+    "start": 46,
+    "end": 53
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 54,
+    "end": 57
+  },
+  {
+    "text": "continued",
+    "label": "O",
+    "start": 58,
+    "end": 67
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 67,
+    "end": 68
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 69,
+    "end": 70
+  },
+  {
+    "text": "serum",
+    "label": "B-TEST",
+    "start": 71,
+    "end": 76
+  },
+  {
+    "text": "ferritin",
+    "label": "I-TEST",
+    "start": 77,
+    "end": 85
+  },
+  {
+    "text": "sample",
+    "label": "O",
+    "start": 86,
+    "end": 92
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 93,
+    "end": 96
+  },
+  {
+    "text": "collected",
+    "label": "O",
+    "start": 97,
+    "end": 106
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 106,
+    "end": 107
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 108,
+    "end": 111
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 112,
+    "end": 119
+  },
+  {
+    "text": "reported",
+    "label": "O",
+    "start": 120,
+    "end": 128
+  },
+  {
+    "text": "normal",
+    "label": "O",
+    "start": 129,
+    "end": 135
+  },
+  {
+    "text": "meals",
+    "label": "O",
+    "start": 136,
+    "end": 141
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 142,
+    "end": 145
+  },
+  {
+    "text": "planned",
+    "label": "O",
+    "start": 146,
+    "end": 153
+  },
+  {
+    "text": "another",
+    "label": "O",
+    "start": 154,
+    "end": 161
+  },
+  {
+    "text": "visit",
+    "label": "O",
+    "start": 162,
+    "end": 167
+  },
+  {
+    "text": "next",
+    "label": "O",
+    "start": 168,
+    "end": 172
+  },
+  {
+    "text": "month",
+    "label": "O",
+    "start": 173,
+    "end": 178
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 178,
+    "end": 179
+  }
+]

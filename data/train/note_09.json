@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "Sep",
+    "label": "O",
+    "start": 8,
+    "end": 11
+  },
+  {
+    "text": "04",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": ",",
+    "label": "O",
+    "start": 14,
+    "end": 15
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 16,
+    "end": 20
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 21,
+    "end": 25
+  },
+  {
+    "text": "sneezing",
+    "label": "B-SYMPTOM",
+    "start": 26,
+    "end": 34
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 34,
+    "end": 35
+  },
+  {
+    "text": "Cetirizine",
+    "label": "B-MEDICINE",
+    "start": 36,
+    "end": 46
+  },
+  {
+    "text": "use",
+    "label": "O",
+    "start": 47,
+    "end": 50
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 51,
+    "end": 54
+  },
+  {
+    "text": "documented",
+    "label": "O",
+    "start": 55,
+    "end": 65
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 65,
+    "end": 66
+  },
+  {
+    "text": "No",
+    "label": "O",
+    "start": 67,
+    "end": 69
+  },
+  {
+    "text": "fever",
+    "label": "B-SYMPTOM",
+    "start": 70,
+    "end": 75
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 76,
+    "end": 79
+  },
+  {
+    "text": "reported",
+    "label": "O",
+    "start": 80,
+    "end": 88
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 88,
+    "end": 89
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 90,
+    "end": 93
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 94,
+    "end": 101
+  },
+  {
+    "text": "slept",
+    "label": "O",
+    "start": 102,
+    "end": 107
+  },
+  {
+    "text": "well",
+    "label": "O",
+    "start": 108,
+    "end": 112
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 113,
+    "end": 116
+  },
+  {
+    "text": "had",
+    "label": "O",
+    "start": 117,
+    "end": 120
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 121,
+    "end": 122
+  },
+  {
+    "text": "routine",
+    "label": "O",
+    "start": 123,
+    "end": 130
+  },
+  {
+    "text": "blood",
+    "label": "B-TEST",
+    "start": 131,
+    "end": 136
+  },
+  {
+    "text": "pressure",
+    "label": "I-TEST",
+    "start": 137,
+    "end": 145
+  },
+  {
+    "text": "check",
+    "label": "O",
+    "start": 146,
+    "end": 151
+  },
+  {
+    "text": "before",
+    "label": "O",
+    "start": 152,
+    "end": 158
+  },
+  {
+    "text": "leaving",
+    "label": "O",
+    "start": 159,
+    "end": 166
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 166,
+    "end": 167
+  }
+]

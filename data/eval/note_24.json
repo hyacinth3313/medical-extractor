@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "2025-12-09",
+    "label": "O",
+    "start": 12,
+    "end": 22
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 23,
+    "end": 26
+  },
+  {
+    "text": "abdominal",
+    "label": "B-SYMPTOM",
+    "start": 27,
+    "end": 36
+  },
+  {
+    "text": "cramps",
+    "label": "I-SYMPTOM",
+    "start": 37,
+    "end": 43
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 43,
+    "end": 44
+  },
+  {
+    "text": "Oral",
+    "label": "B-MEDICINE",
+    "start": 45,
+    "end": 49
+  },
+  {
+    "text": "rehydration",
+    "label": "I-MEDICINE",
+    "start": 50,
+    "end": 61
+  },
+  {
+    "text": "salts",
+    "label": "I-MEDICINE",
+    "start": 62,
+    "end": 67
+  },
+  {
+    "text": "were",
+    "label": "O",
+    "start": 68,
+    "end": 72
+  },
+  {
+    "text": "tolerated",
+    "label": "O",
+    "start": 73,
+    "end": 82
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 82,
+    "end": 83
+  },
+  {
+    "text": "Serum",
+    "label": "B-TEST",
+    "start": 84,
+    "end": 89
+  },
+  {
+    "text": "electrolytes",
+    "label": "I-TEST",
+    "start": 90,
+    "end": 102
+  },
+  {
+    "text": "were",
+    "label": "O",
+    "start": 103,
+    "end": 107
+  },
+  {
+    "text": "checked",
+    "label": "O",
+    "start": 108,
+    "end": 115
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 115,
+    "end": 116
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 117,
+    "end": 120
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 121,
+    "end": 128
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 129,
+    "end": 132
+  },
+  {
+    "text": "alert",
+    "label": "O",
+    "start": 133,
+    "end": 138
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 139,
+    "end": 142
+  },
+  {
+    "text": "planned",
+    "label": "O",
+    "start": 143,
+    "end": 150
+  },
+  {
+    "text": "telephone",
+    "label": "O",
+    "start": 151,
+    "end": 160
+  },
+  {
+    "text": "followup",
+    "label": "O",
+    "start": 161,
+    "end": 169
+  },
+  {
+    "text": "after",
+    "label": "O",
+    "start": 170,
+    "end": 175
+  },
+  {
+    "text": "returning",
+    "label": "O",
+    "start": 176,
+    "end": 185
+  },
+  {
+    "text": "home",
+    "label": "O",
+    "start": 186,
+    "end": 190
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 191,
+    "end": 195
+  },
+  {
+    "text": "family",
+    "label": "O",
+    "start": 196,
+    "end": 202
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 202,
+    "end": 203
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "07-18-2024",
+    "label": "O",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "abdominal",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 33
+  },
+  {
+    "text": "pain",
+    "label": "I-SYMPTOM",
+    "start": 34,
+    "end": 38
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 38,
+    "end": 39
+  },
+  {
+    "text": "Omeprazole",
+    "label": "B-MEDICINE",
+    "start": 40,
+    "end": 50
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 51,
+    "end": 54
+  },
+  {
+    "text": "listed",
+    "label": "O",
+    "start": 55,
+    "end": 61
+  },
+  {
+    "text": "among",
+    "label": "O",
+    "start": 62,
+    "end": 67
+  },
+  {
+    "text": "current",
+    "label": "O",
+    "start": 68,
+    "end": 75
+  },
+  {
+    "text": "medicines",
+    "label": "O",
+    "start": 76,
+    "end": 85
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 85,
+    "end": 86
+  },
+  {
+    "text": "An",
+    "label": "O",
+    "start": 87,
+    "end": 89
+  },
+  {
+    "text": "abdominal",
+    "label": "B-TEST",
+    "start": 90,
+    "end": 99
+  },
+  {
+    "text": "ultrasound",
+    "label": "I-TEST",
+    "start": 100,
+    "end": 110
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 111,
+    "end": 114
+  },
+  {
+    "text": "arranged",
+    "label": "O",
+    "start": 115,
+    "end": 123
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 123,
+    "end": 124
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 125,
+    "end": 128
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 129,
+    "end": 136
+  },
+  {
+    "text": "tolerated",
+    "label": "O",
+    "start": 137,
+    "end": 146
+  },
+  {
+    "text": "fluids",
+    "label": "O",
+    "start": 147,
+    "end": 153
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 154,
+    "end": 157
+  },
+  {
+    "text": "received",
+    "label": "O",
+    "start": 158,
+    "end": 166
+  },
+  {
+    "text": "instructions",
+    "label": "O",
+    "start": 167,
+    "end": 179
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 180,
+    "end": 183
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 184,
+    "end": 187
+  },
+  {
+    "text": "next",
+    "label": "O",
+    "start": 188,
+    "end": 192
+  },
+  {
+    "text": "appointment",
+    "label": "O",
+    "start": 193,
+    "end": 204
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 204,
+    "end": 205
+  }
+]

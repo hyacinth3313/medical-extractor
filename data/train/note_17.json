@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "May",
+    "label": "O",
+    "start": 8,
+    "end": 11
+  },
+  {
+    "text": "07",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": ",",
+    "label": "O",
+    "start": 14,
+    "end": 15
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 16,
+    "end": 20
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 21,
+    "end": 25
+  },
+  {
+    "text": "itching",
+    "label": "B-SYMPTOM",
+    "start": 26,
+    "end": 33
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 33,
+    "end": 34
+  },
+  {
+    "text": "Hydrocortisone",
+    "label": "B-MEDICINE",
+    "start": 35,
+    "end": 49
+  },
+  {
+    "text": "cream",
+    "label": "I-MEDICINE",
+    "start": 50,
+    "end": 55
+  },
+  {
+    "text": "had",
+    "label": "O",
+    "start": 56,
+    "end": 59
+  },
+  {
+    "text": "helped",
+    "label": "O",
+    "start": 60,
+    "end": 66
+  },
+  {
+    "text": "locally",
+    "label": "O",
+    "start": 67,
+    "end": 74
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 74,
+    "end": 75
+  },
+  {
+    "text": "No",
+    "label": "O",
+    "start": 76,
+    "end": 78
+  },
+  {
+    "text": "rash",
+    "label": "B-SYMPTOM",
+    "start": 79,
+    "end": 83
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 84,
+    "end": 87
+  },
+  {
+    "text": "visible",
+    "label": "O",
+    "start": 88,
+    "end": 95
+  },
+  {
+    "text": "today",
+    "label": "O",
+    "start": 96,
+    "end": 101
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 101,
+    "end": 102
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 103,
+    "end": 106
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 107,
+    "end": 114
+  },
+  {
+    "text": "felt",
+    "label": "O",
+    "start": 115,
+    "end": 119
+  },
+  {
+    "text": "well",
+    "label": "O",
+    "start": 120,
+    "end": 124
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 125,
+    "end": 128
+  },
+  {
+    "text": "booked",
+    "label": "O",
+    "start": 129,
+    "end": 135
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 136,
+    "end": 137
+  },
+  {
+    "text": "routine",
+    "label": "O",
+    "start": 138,
+    "end": 145
+  },
+  {
+    "text": "blood",
+    "label": "B-TEST",
+    "start": 146,
+    "end": 151
+  },
+  {
+    "text": "pressure",
+    "label": "I-TEST",
+    "start": 152,
+    "end": 160
+  },
+  {
+    "text": "review",
+    "label": "O",
+    "start": 161,
+    "end": 167
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 167,
+    "end": 168
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "03",
+    "label": "O",
+    "start": 8,
+    "end": 10
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 10,
+    "end": 11
+  },
+  {
+    "text": "03",
+    "label": "O",
+    "start": 11,
+    "end": 13
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 13,
+    "end": 14
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 14,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "wheezing",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 32
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 32,
+    "end": 33
+  },
+  {
+    "text": "Salbutamol",
+    "label": "B-MEDICINE",
+    "start": 34,
+    "end": 44
+  },
+  {
+    "text": "improved",
+    "label": "O",
+    "start": 45,
+    "end": 53
+  },
+  {
+    "text": "breathing",
+    "label": "O",
+    "start": 54,
+    "end": 63
+  },
+  {
+    "text": "during",
+    "label": "O",
+    "start": 64,
+    "end": 70
+  },
+  {
+    "text": "observation",
+    "label": "O",
+    "start": 71,
+    "end": 82
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 82,
+    "end": 83
+  },
+  {
+    "text": "Peak",
+    "label": "B-TEST",
+    "start": 84,
+    "end": 88
+  },
+  {
+    "text": "flow",
+    "label": "I-TEST",
+    "start": 89,
+    "end": 93
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 94,
+    "end": 97
+  },
+  {
+    "text": "measured",
+    "label": "O",
+    "start": 98,
+    "end": 106
+  },
+  {
+    "text": "twice",
+    "label": "O",
+    "start": 107,
+    "end": 112
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 112,
+    "end": 113
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 114,
+    "end": 117
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 118,
+    "end": 125
+  },
+  {
+    "text": "remained",
+    "label": "O",
+    "start": 126,
+    "end": 134
+  },
+  {
+    "text": "alert",
+    "label": "O",
+    "start": 135,
+    "end": 140
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 141,
+    "end": 144
+  },
+  {
+    "text": "left",
+    "label": "O",
+    "start": 145,
+    "end": 149
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 150,
+    "end": 154
+  },
+  {
+    "text": "an",
+    "label": "O",
+    "start": 155,
+    "end": 157
+  },
+  {
+    "text": "inhaler",
+    "label": "O",
+    "start": 158,
+    "end": 165
+  },
+  {
+    "text": "review",
+    "label": "O",
+    "start": 166,
+    "end": 172
+  },
+  {
+    "text": "booked",
+    "label": "O",
+    "start": 173,
+    "end": 179
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 179,
+    "end": 180
+  }
+]

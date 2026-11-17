@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "2024-10-11",
+    "label": "O",
+    "start": 12,
+    "end": 22
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 23,
+    "end": 26
+  },
+  {
+    "text": "constipation",
+    "label": "B-SYMPTOM",
+    "start": 27,
+    "end": 39
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 39,
+    "end": 40
+  },
+  {
+    "text": "Lactulose",
+    "label": "B-MEDICINE",
+    "start": 41,
+    "end": 50
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 51,
+    "end": 54
+  },
+  {
+    "text": "recorded",
+    "label": "O",
+    "start": 55,
+    "end": 63
+  },
+  {
+    "text": "in",
+    "label": "O",
+    "start": 64,
+    "end": 66
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 67,
+    "end": 70
+  },
+  {
+    "text": "chart",
+    "label": "O",
+    "start": 71,
+    "end": 76
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 76,
+    "end": 77
+  },
+  {
+    "text": "Thyroid",
+    "label": "B-TEST",
+    "start": 78,
+    "end": 85
+  },
+  {
+    "text": "function",
+    "label": "I-TEST",
+    "start": 86,
+    "end": 94
+  },
+  {
+    "text": "tests",
+    "label": "I-TEST",
+    "start": 95,
+    "end": 100
+  },
+  {
+    "text": "were",
+    "label": "O",
+    "start": 101,
+    "end": 105
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 106,
+    "end": 115
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 115,
+    "end": 116
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 117,
+    "end": 120
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 121,
+    "end": 128
+  },
+  {
+    "text": "appeared",
+    "label": "O",
+    "start": 129,
+    "end": 137
+  },
+  {
+    "text": "comfortable",
+    "label": "O",
+    "start": 138,
+    "end": 149
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 150,
+    "end": 153
+  },
+  {
+    "text": "agreed",
+    "label": "O",
+    "start": 154,
+    "end": 160
+  },
+  {
+    "text": "to",
+    "label": "O",
+    "start": 161,
+    "end": 163
+  },
+  {
+    "text": "bring",
+    "label": "O",
+    "start": 164,
+    "end": 169
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 170,
+    "end": 171
+  },
+  {
+    "text": "medication",
+    "label": "O",
+    "start": 172,
+    "end": 182
+  },
+  {
+    "text": "list",
+    "label": "O",
+    "start": 183,
+    "end": 187
+  },
+  {
+    "text": "next",
+    "label": "O",
+    "start": 188,
+    "end": 192
+  },
+  {
+    "text": "time",
+    "label": "O",
+    "start": 193,
+    "end": 197
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 197,
+    "end": 198
+  }
+]

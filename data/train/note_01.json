@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "15",
+    "label": "O",
+    "start": 8,
+    "end": 10
+  },
+  {
+    "text": "January",
+    "label": "O",
+    "start": 11,
+    "end": 18
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 24,
+    "end": 27
+  },
+  {
+    "text": "headache",
+    "label": "B-SYMPTOM",
+    "start": 28,
+    "end": 36
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 36,
+    "end": 37
+  },
+  {
+    "text": "Paracetamol",
+    "label": "B-MEDICINE",
+    "start": 38,
+    "end": 49
+  },
+  {
+    "text": "helped",
+    "label": "O",
+    "start": 50,
+    "end": 56
+  },
+  {
+    "text": "overnight",
+    "label": "O",
+    "start": 57,
+    "end": 66
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 66,
+    "end": 67
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 68,
+    "end": 69
+  },
+  {
+    "text": "complete",
+    "label": "B-TEST",
+    "start": 70,
+    "end": 78
+  },
+  {
+    "text": "blood",
+    "label": "I-TEST",
+    "start": 79,
+    "end": 84
+  },
+  {
+    "text": "count",
+    "label": "I-TEST",
+    "start": 85,
+    "end": 90
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 91,
+    "end": 94
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 95,
+    "end": 104
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 104,
+    "end": 105
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 106,
+    "end": 109
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 110,
+    "end": 117
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 118,
+    "end": 121
+  },
+  {
+    "text": "comfortable",
+    "label": "O",
+    "start": 122,
+    "end": 133
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 134,
+    "end": 137
+  },
+  {
+    "text": "went",
+    "label": "O",
+    "start": 138,
+    "end": 142
+  },
+  {
+    "text": "home",
+    "label": "O",
+    "start": 143,
+    "end": 147
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 148,
+    "end": 152
+  },
+  {
+    "text": "routine",
+    "label": "O",
+    "start": 153,
+    "end": 160
+  },
+  {
+    "text": "followup",
+    "label": "O",
+    "start": 161,
+    "end": 169
+  },
+  {
+    "text": "arranged",
+    "label": "O",
+    "start": 170,
+    "end": 178
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 178,
+    "end": 179
+  }
+]

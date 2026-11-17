@@ -1,0 +1,224 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "02",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 14,
+    "end": 15
+  },
+  {
+    "text": "02",
+    "label": "O",
+    "start": 15,
+    "end": 17
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 17,
+    "end": 18
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 18,
+    "end": 22
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 23,
+    "end": 26
+  },
+  {
+    "text": "muscle",
+    "label": "B-SYMPTOM",
+    "start": 27,
+    "end": 33
+  },
+  {
+    "text": "aches",
+    "label": "I-SYMPTOM",
+    "start": 34,
+    "end": 39
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 39,
+    "end": 40
+  },
+  {
+    "text": "Atorvastatin",
+    "label": "B-MEDICINE",
+    "start": 41,
+    "end": 53
+  },
+  {
+    "text": "use",
+    "label": "O",
+    "start": 54,
+    "end": 57
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 58,
+    "end": 61
+  },
+  {
+    "text": "documented",
+    "label": "O",
+    "start": 62,
+    "end": 72
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 72,
+    "end": 73
+  },
+  {
+    "text": "Creatine",
+    "label": "B-TEST",
+    "start": 74,
+    "end": 82
+  },
+  {
+    "text": "kinase",
+    "label": "I-TEST",
+    "start": 83,
+    "end": 89
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 90,
+    "end": 93
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 94,
+    "end": 103
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 103,
+    "end": 104
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 105,
+    "end": 108
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 109,
+    "end": 116
+  },
+  {
+    "text": "walked",
+    "label": "O",
+    "start": 117,
+    "end": 123
+  },
+  {
+    "text": "independently",
+    "label": "O",
+    "start": 124,
+    "end": 137
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 138,
+    "end": 141
+  },
+  {
+    "text": "agreed",
+    "label": "O",
+    "start": 142,
+    "end": 148
+  },
+  {
+    "text": "to",
+    "label": "O",
+    "start": 149,
+    "end": 151
+  },
+  {
+    "text": "bring",
+    "label": "O",
+    "start": 152,
+    "end": 157
+  },
+  {
+    "text": "earlier",
+    "label": "O",
+    "start": 158,
+    "end": 165
+  },
+  {
+    "text": "laboratory",
+    "label": "O",
+    "start": 166,
+    "end": 176
+  },
+  {
+    "text": "results",
+    "label": "O",
+    "start": 177,
+    "end": 184
+  },
+  {
+    "text": "to",
+    "label": "O",
+    "start": 185,
+    "end": 187
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 188,
+    "end": 191
+  },
+  {
+    "text": "next",
+    "label": "O",
+    "start": 192,
+    "end": 196
+  },
+  {
+    "text": "visit",
+    "label": "O",
+    "start": 197,
+    "end": 202
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 202,
+    "end": 203
+  }
+]

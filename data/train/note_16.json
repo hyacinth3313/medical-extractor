@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "22",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": "April",
+    "label": "O",
+    "start": 15,
+    "end": 20
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 21,
+    "end": 25
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 26,
+    "end": 29
+  },
+  {
+    "text": "ankle",
+    "label": "B-SYMPTOM",
+    "start": 30,
+    "end": 35
+  },
+  {
+    "text": "swelling",
+    "label": "I-SYMPTOM",
+    "start": 36,
+    "end": 44
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 44,
+    "end": 45
+  },
+  {
+    "text": "Furosemide",
+    "label": "B-MEDICINE",
+    "start": 46,
+    "end": 56
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 57,
+    "end": 60
+  },
+  {
+    "text": "recorded",
+    "label": "O",
+    "start": 61,
+    "end": 69
+  },
+  {
+    "text": "as",
+    "label": "O",
+    "start": 70,
+    "end": 72
+  },
+  {
+    "text": "ongoing",
+    "label": "O",
+    "start": 73,
+    "end": 80
+  },
+  {
+    "text": "treatment",
+    "label": "O",
+    "start": 81,
+    "end": 90
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 90,
+    "end": 91
+  },
+  {
+    "text": "Renal",
+    "label": "B-TEST",
+    "start": 92,
+    "end": 97
+  },
+  {
+    "text": "function",
+    "label": "I-TEST",
+    "start": 98,
+    "end": 106
+  },
+  {
+    "text": "tests",
+    "label": "I-TEST",
+    "start": 107,
+    "end": 112
+  },
+  {
+    "text": "were",
+    "label": "O",
+    "start": 113,
+    "end": 117
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 118,
+    "end": 127
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 127,
+    "end": 128
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 129,
+    "end": 132
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 133,
+    "end": 140
+  },
+  {
+    "text": "remained",
+    "label": "O",
+    "start": 141,
+    "end": 149
+  },
+  {
+    "text": "comfortable",
+    "label": "O",
+    "start": 150,
+    "end": 161
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 162,
+    "end": 165
+  },
+  {
+    "text": "brought",
+    "label": "O",
+    "start": 166,
+    "end": 173
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 174,
+    "end": 175
+  },
+  {
+    "text": "weight",
+    "label": "O",
+    "start": 176,
+    "end": 182
+  },
+  {
+    "text": "diary",
+    "label": "O",
+    "start": 183,
+    "end": 188
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 188,
+    "end": 189
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "2025-01-14",
+    "label": "O",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "painful",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 31
+  },
+  {
+    "text": "urination",
+    "label": "I-SYMPTOM",
+    "start": 32,
+    "end": 41
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 41,
+    "end": 42
+  },
+  {
+    "text": "Nitrofurantoin",
+    "label": "B-MEDICINE",
+    "start": 43,
+    "end": 57
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 58,
+    "end": 61
+  },
+  {
+    "text": "prescribed",
+    "label": "O",
+    "start": 62,
+    "end": 72
+  },
+  {
+    "text": "following",
+    "label": "O",
+    "start": 73,
+    "end": 82
+  },
+  {
+    "text": "assessment",
+    "label": "O",
+    "start": 83,
+    "end": 93
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 93,
+    "end": 94
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 95,
+    "end": 96
+  },
+  {
+    "text": "urine",
+    "label": "B-TEST",
+    "start": 97,
+    "end": 102
+  },
+  {
+    "text": "culture",
+    "label": "I-TEST",
+    "start": 103,
+    "end": 110
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 111,
+    "end": 114
+  },
+  {
+    "text": "sent",
+    "label": "O",
+    "start": 115,
+    "end": 119
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 119,
+    "end": 120
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 121,
+    "end": 124
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 125,
+    "end": 132
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 133,
+    "end": 136
+  },
+  {
+    "text": "drinking",
+    "label": "O",
+    "start": 137,
+    "end": 145
+  },
+  {
+    "text": "normally",
+    "label": "O",
+    "start": 146,
+    "end": 154
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 155,
+    "end": 158
+  },
+  {
+    "text": "arranged",
+    "label": "O",
+    "start": 159,
+    "end": 167
+  },
+  {
+    "text": "telephone",
+    "label": "O",
+    "start": 168,
+    "end": 177
+  },
+  {
+    "text": "followup",
+    "label": "O",
+    "start": 178,
+    "end": 186
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 187,
+    "end": 190
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 191,
+    "end": 194
+  },
+  {
+    "text": "results",
+    "label": "O",
+    "start": 195,
+    "end": 202
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 202,
+    "end": 203
+  }
+]

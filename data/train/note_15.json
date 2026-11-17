@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "03-21-2025",
+    "label": "O",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "vomiting",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 32
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 32,
+    "end": 33
+  },
+  {
+    "text": "Ondansetron",
+    "label": "B-MEDICINE",
+    "start": 34,
+    "end": 45
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 46,
+    "end": 49
+  },
+  {
+    "text": "given",
+    "label": "O",
+    "start": 50,
+    "end": 55
+  },
+  {
+    "text": "during",
+    "label": "O",
+    "start": 56,
+    "end": 62
+  },
+  {
+    "text": "observation",
+    "label": "O",
+    "start": 63,
+    "end": 74
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 74,
+    "end": 75
+  },
+  {
+    "text": "Serum",
+    "label": "B-TEST",
+    "start": 76,
+    "end": 81
+  },
+  {
+    "text": "electrolytes",
+    "label": "I-TEST",
+    "start": 82,
+    "end": 94
+  },
+  {
+    "text": "were",
+    "label": "O",
+    "start": 95,
+    "end": 99
+  },
+  {
+    "text": "checked",
+    "label": "O",
+    "start": 100,
+    "end": 107
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 107,
+    "end": 108
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 109,
+    "end": 112
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 113,
+    "end": 120
+  },
+  {
+    "text": "later",
+    "label": "O",
+    "start": 121,
+    "end": 126
+  },
+  {
+    "text": "tolerated",
+    "label": "O",
+    "start": 127,
+    "end": 136
+  },
+  {
+    "text": "water",
+    "label": "O",
+    "start": 137,
+    "end": 142
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 143,
+    "end": 146
+  },
+  {
+    "text": "went",
+    "label": "O",
+    "start": 147,
+    "end": 151
+  },
+  {
+    "text": "home",
+    "label": "O",
+    "start": 152,
+    "end": 156
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 157,
+    "end": 161
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 162,
+    "end": 163
+  },
+  {
+    "text": "relative",
+    "label": "O",
+    "start": 164,
+    "end": 172
+  },
+  {
+    "text": "after",
+    "label": "O",
+    "start": 173,
+    "end": 178
+  },
+  {
+    "text": "reassessment",
+    "label": "O",
+    "start": 179,
+    "end": 191
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 191,
+    "end": 192
+  }
+]

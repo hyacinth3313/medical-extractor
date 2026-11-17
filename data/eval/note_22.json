@@ -1,0 +1,212 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "10",
+    "label": "O",
+    "start": 12,
+    "end": 14
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 14,
+    "end": 15
+  },
+  {
+    "text": "10",
+    "label": "O",
+    "start": 15,
+    "end": 17
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 17,
+    "end": 18
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 18,
+    "end": 22
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 23,
+    "end": 26
+  },
+  {
+    "text": "productive",
+    "label": "B-SYMPTOM",
+    "start": 27,
+    "end": 37
+  },
+  {
+    "text": "cough",
+    "label": "I-SYMPTOM",
+    "start": 38,
+    "end": 43
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 43,
+    "end": 44
+  },
+  {
+    "text": "Doxycycline",
+    "label": "B-MEDICINE",
+    "start": 45,
+    "end": 56
+  },
+  {
+    "text": "had",
+    "label": "O",
+    "start": 57,
+    "end": 60
+  },
+  {
+    "text": "been",
+    "label": "O",
+    "start": 61,
+    "end": 65
+  },
+  {
+    "text": "prescribed",
+    "label": "O",
+    "start": 66,
+    "end": 76
+  },
+  {
+    "text": "yesterday",
+    "label": "O",
+    "start": 77,
+    "end": 86
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 86,
+    "end": 87
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 88,
+    "end": 89
+  },
+  {
+    "text": "chest",
+    "label": "B-TEST",
+    "start": 90,
+    "end": 95
+  },
+  {
+    "text": "X-ray",
+    "label": "I-TEST",
+    "start": 96,
+    "end": 101
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 102,
+    "end": 105
+  },
+  {
+    "text": "arranged",
+    "label": "O",
+    "start": 106,
+    "end": 114
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 114,
+    "end": 115
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 116,
+    "end": 119
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 120,
+    "end": 127
+  },
+  {
+    "text": "drank",
+    "label": "O",
+    "start": 128,
+    "end": 133
+  },
+  {
+    "text": "normally",
+    "label": "O",
+    "start": 134,
+    "end": 142
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 143,
+    "end": 146
+  },
+  {
+    "text": "understood",
+    "label": "O",
+    "start": 147,
+    "end": 157
+  },
+  {
+    "text": "when",
+    "label": "O",
+    "start": 158,
+    "end": 162
+  },
+  {
+    "text": "to",
+    "label": "O",
+    "start": 163,
+    "end": 165
+  },
+  {
+    "text": "seek",
+    "label": "O",
+    "start": 166,
+    "end": 170
+  },
+  {
+    "text": "another",
+    "label": "O",
+    "start": 171,
+    "end": 178
+  },
+  {
+    "text": "assessment",
+    "label": "O",
+    "start": 179,
+    "end": 189
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 189,
+    "end": 190
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "07",
+    "label": "O",
+    "start": 8,
+    "end": 10
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 10,
+    "end": 11
+  },
+  {
+    "text": "07",
+    "label": "O",
+    "start": 11,
+    "end": 13
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 13,
+    "end": 14
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 14,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "lower",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 29
+  },
+  {
+    "text": "back",
+    "label": "I-SYMPTOM",
+    "start": 30,
+    "end": 34
+  },
+  {
+    "text": "pain",
+    "label": "I-SYMPTOM",
+    "start": 35,
+    "end": 39
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 39,
+    "end": 40
+  },
+  {
+    "text": "Naproxen",
+    "label": "B-MEDICINE",
+    "start": 41,
+    "end": 49
+  },
+  {
+    "text": "had",
+    "label": "O",
+    "start": 50,
+    "end": 53
+  },
+  {
+    "text": "given",
+    "label": "O",
+    "start": 54,
+    "end": 59
+  },
+  {
+    "text": "partial",
+    "label": "O",
+    "start": 60,
+    "end": 67
+  },
+  {
+    "text": "relief",
+    "label": "O",
+    "start": 68,
+    "end": 74
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 74,
+    "end": 75
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 76,
+    "end": 77
+  },
+  {
+    "text": "lumbar",
+    "label": "B-TEST",
+    "start": 78,
+    "end": 84
+  },
+  {
+    "text": "spine",
+    "label": "I-TEST",
+    "start": 85,
+    "end": 90
+  },
+  {
+    "text": "X-ray",
+    "label": "I-TEST",
+    "start": 91,
+    "end": 96
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 97,
+    "end": 100
+  },
+  {
+    "text": "arranged",
+    "label": "O",
+    "start": 101,
+    "end": 109
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 109,
+    "end": 110
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 111,
+    "end": 114
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 115,
+    "end": 122
+  },
+  {
+    "text": "walked",
+    "label": "O",
+    "start": 123,
+    "end": 129
+  },
+  {
+    "text": "unaided",
+    "label": "O",
+    "start": 130,
+    "end": 137
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 138,
+    "end": 141
+  },
+  {
+    "text": "planned",
+    "label": "O",
+    "start": 142,
+    "end": 149
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 150,
+    "end": 151
+  },
+  {
+    "text": "review",
+    "label": "O",
+    "start": 152,
+    "end": 158
+  },
+  {
+    "text": "next",
+    "label": "O",
+    "start": 159,
+    "end": 163
+  },
+  {
+    "text": "week",
+    "label": "O",
+    "start": 164,
+    "end": 168
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 168,
+    "end": 169
+  }
+]

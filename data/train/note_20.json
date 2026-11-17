@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "Aug",
+    "label": "O",
+    "start": 12,
+    "end": 15
+  },
+  {
+    "text": "15",
+    "label": "O",
+    "start": 16,
+    "end": 18
+  },
+  {
+    "text": ",",
+    "label": "O",
+    "start": 18,
+    "end": 19
+  },
+  {
+    "text": "2025",
+    "label": "O",
+    "start": 20,
+    "end": 24
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 25,
+    "end": 28
+  },
+  {
+    "text": "tiredness",
+    "label": "B-SYMPTOM",
+    "start": 29,
+    "end": 38
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 38,
+    "end": 39
+  },
+  {
+    "text": "Levothyroxine",
+    "label": "B-MEDICINE",
+    "start": 40,
+    "end": 53
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 54,
+    "end": 57
+  },
+  {
+    "text": "taken",
+    "label": "O",
+    "start": 58,
+    "end": 63
+  },
+  {
+    "text": "regularly",
+    "label": "O",
+    "start": 64,
+    "end": 73
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 73,
+    "end": 74
+  },
+  {
+    "text": "Thyroid",
+    "label": "B-TEST",
+    "start": 75,
+    "end": 82
+  },
+  {
+    "text": "stimulating",
+    "label": "I-TEST",
+    "start": 83,
+    "end": 94
+  },
+  {
+    "text": "hormone",
+    "label": "I-TEST",
+    "start": 95,
+    "end": 102
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 103,
+    "end": 106
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 107,
+    "end": 116
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 116,
+    "end": 117
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 118,
+    "end": 121
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 122,
+    "end": 129
+  },
+  {
+    "text": "remained",
+    "label": "O",
+    "start": 130,
+    "end": 138
+  },
+  {
+    "text": "active",
+    "label": "O",
+    "start": 139,
+    "end": 145
+  },
+  {
+    "text": "at",
+    "label": "O",
+    "start": 146,
+    "end": 148
+  },
+  {
+    "text": "home",
+    "label": "O",
+    "start": 149,
+    "end": 153
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 154,
+    "end": 157
+  },
+  {
+    "text": "brought",
+    "label": "O",
+    "start": 158,
+    "end": 165
+  },
+  {
+    "text": "a",
+    "label": "O",
+    "start": 166,
+    "end": 167
+  },
+  {
+    "text": "list",
+    "label": "O",
+    "start": 168,
+    "end": 172
+  },
+  {
+    "text": "of",
+    "label": "O",
+    "start": 173,
+    "end": 175
+  },
+  {
+    "text": "previous",
+    "label": "O",
+    "start": 176,
+    "end": 184
+  },
+  {
+    "text": "appointments",
+    "label": "O",
+    "start": 185,
+    "end": 197
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 197,
+    "end": 198
+  }
+]

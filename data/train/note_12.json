@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Reviewed",
+    "label": "O",
+    "start": 0,
+    "end": 8
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 9,
+    "end": 11
+  },
+  {
+    "text": "Dec",
+    "label": "O",
+    "start": 12,
+    "end": 15
+  },
+  {
+    "text": "02",
+    "label": "O",
+    "start": 16,
+    "end": 18
+  },
+  {
+    "text": ",",
+    "label": "O",
+    "start": 18,
+    "end": 19
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 20,
+    "end": 24
+  },
+  {
+    "text": "for",
+    "label": "O",
+    "start": 25,
+    "end": 28
+  },
+  {
+    "text": "dry",
+    "label": "B-SYMPTOM",
+    "start": 29,
+    "end": 32
+  },
+  {
+    "text": "cough",
+    "label": "I-SYMPTOM",
+    "start": 33,
+    "end": 38
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 38,
+    "end": 39
+  },
+  {
+    "text": "Lisinopril",
+    "label": "B-MEDICINE",
+    "start": 40,
+    "end": 50
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 51,
+    "end": 54
+  },
+  {
+    "text": "listed",
+    "label": "O",
+    "start": 55,
+    "end": 61
+  },
+  {
+    "text": "in",
+    "label": "O",
+    "start": 62,
+    "end": 64
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 65,
+    "end": 68
+  },
+  {
+    "text": "record",
+    "label": "O",
+    "start": 69,
+    "end": 75
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 75,
+    "end": 76
+  },
+  {
+    "text": "A",
+    "label": "O",
+    "start": 77,
+    "end": 78
+  },
+  {
+    "text": "chest",
+    "label": "B-TEST",
+    "start": 79,
+    "end": 84
+  },
+  {
+    "text": "X-ray",
+    "label": "I-TEST",
+    "start": 85,
+    "end": 90
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 91,
+    "end": 94
+  },
+  {
+    "text": "requested",
+    "label": "O",
+    "start": 95,
+    "end": 104
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 104,
+    "end": 105
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 106,
+    "end": 109
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 110,
+    "end": 117
+  },
+  {
+    "text": "spoke",
+    "label": "O",
+    "start": 118,
+    "end": 123
+  },
+  {
+    "text": "comfortably",
+    "label": "O",
+    "start": 124,
+    "end": 135
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 136,
+    "end": 139
+  },
+  {
+    "text": "understood",
+    "label": "O",
+    "start": 140,
+    "end": 150
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 151,
+    "end": 154
+  },
+  {
+    "text": "planned",
+    "label": "O",
+    "start": 155,
+    "end": 162
+  },
+  {
+    "text": "review",
+    "label": "O",
+    "start": 163,
+    "end": 169
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 169,
+    "end": 170
+  }
+]

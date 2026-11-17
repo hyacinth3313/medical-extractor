@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Seen",
+    "label": "O",
+    "start": 0,
+    "end": 4
+  },
+  {
+    "text": "on",
+    "label": "O",
+    "start": 5,
+    "end": 7
+  },
+  {
+    "text": "11",
+    "label": "O",
+    "start": 8,
+    "end": 10
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 10,
+    "end": 11
+  },
+  {
+    "text": "11",
+    "label": "O",
+    "start": 11,
+    "end": 13
+  },
+  {
+    "text": "/",
+    "label": "O",
+    "start": 13,
+    "end": 14
+  },
+  {
+    "text": "2024",
+    "label": "O",
+    "start": 14,
+    "end": 18
+  },
+  {
+    "text": "with",
+    "label": "O",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "text": "palpitations",
+    "label": "B-SYMPTOM",
+    "start": 24,
+    "end": 36
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 36,
+    "end": 37
+  },
+  {
+    "text": "No",
+    "label": "O",
+    "start": 38,
+    "end": 40
+  },
+  {
+    "text": "chest",
+    "label": "B-SYMPTOM",
+    "start": 41,
+    "end": 46
+  },
+  {
+    "text": "pain",
+    "label": "I-SYMPTOM",
+    "start": 47,
+    "end": 51
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 52,
+    "end": 55
+  },
+  {
+    "text": "reported",
+    "label": "O",
+    "start": 56,
+    "end": 64
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 64,
+    "end": 65
+  },
+  {
+    "text": "An",
+    "label": "O",
+    "start": 66,
+    "end": 68
+  },
+  {
+    "text": "electrocardiogram",
+    "label": "B-TEST",
+    "start": 69,
+    "end": 86
+  },
+  {
+    "text": "was",
+    "label": "O",
+    "start": 87,
+    "end": 90
+  },
+  {
+    "text": "recorded",
+    "label": "O",
+    "start": 91,
+    "end": 99
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 99,
+    "end": 100
+  },
+  {
+    "text": "The",
+    "label": "O",
+    "start": 101,
+    "end": 104
+  },
+  {
+    "text": "patient",
+    "label": "O",
+    "start": 105,
+    "end": 112
+  },
+  {
+    "text": "took",
+    "label": "O",
+    "start": 113,
+    "end": 117
+  },
+  {
+    "text": "Propranolol",
+    "label": "B-MEDICINE",
+    "start": 118,
+    "end": 129
+  },
+  {
+    "text": "regularly",
+    "label": "O",
+    "start": 130,
+    "end": 139
+  },
+  {
+    "text": "and",
+    "label": "O",
+    "start": 140,
+    "end": 143
+  },
+  {
+    "text": "remained",
+    "label": "O",
+    "start": 144,
+    "end": 152
+  },
+  {
+    "text": "comfortable",
+    "label": "O",
+    "start": 153,
+    "end": 164
+  },
+  {
+    "text": "throughout",
+    "label": "O",
+    "start": 165,
+    "end": 175
+  },
+  {
+    "text": "the",
+    "label": "O",
+    "start": 176,
+    "end": 179
+  },
+  {
+    "text": "clinic",
+    "label": "O",
+    "start": 180,
+    "end": 186
+  },
+  {
+    "text": "visit",
+    "label": "O",
+    "start": 187,
+    "end": 192
+  },
+  {
+    "text": ".",
+    "label": "O",
+    "start": 192,
+    "end": 193
+  }
+]
